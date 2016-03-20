@@ -16,7 +16,7 @@ If you want to contribute, fixing English mistakes, wrong concepts or simply dis
 6. [Constructors e Destructors](https://github.com/jrziviani/C-Moderno/wiki/06.-Constructors-e-Destructors)
 7. [Default constructors assignments are enough?](https://github.com/jrziviani/C-Moderno/wiki/07.-Default-constructors-assignments-are-enough%3F)
 8. [Copy And Swap Idiom](https://github.com/jrziviani/C-Moderno/wiki/08.-Copy-And-Swap-Idiom)
-9. [Pointers](https://github.com/jrziviani/C-Moderno/wiki/09.-Pointers)
+9. [Pointers and References](https://github.com/jrziviani/C-Moderno/wiki/09.-Pointers-and-References)
 10. [Classes Relationships](https://github.com/jrziviani/C-Moderno/wiki/10.-Classes-Relationships)
 11. [Object Relationships](https://github.com/jrziviani/C-Moderno/wiki/11.-Object-Relationships)
 
