@@ -17,5 +17,5 @@ If you want to contribute, fixing English mistakes, wrong concepts or simply dis
 7. [Default constructors assignments are enough?](https://github.com/jrziviani/C-Moderno/wiki/07.-Default-constructors-assignments-are-enough%3F)
 8. [Copy And Swap Idiom](https://github.com/jrziviani/C-Moderno/wiki/08.-Copy-And-Swap-Idiom)
 9. [Pointers and References](https://github.com/jrziviani/C-Moderno/wiki/09.-Pointers-and-References)
-10. [Classes Relationships](10.-Class-Relationship)
+10. [Classes Relationships](https://github.com/jrziviani/C-Moderno/wiki/10.-Class-Relationship)
 
